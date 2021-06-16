@@ -1,0 +1,10 @@
+SQL> select * from Retail;
+
+DID                                                                             
+---                                                                             
+D04                                                                             
+D05                                                                             
+D06                                                                             
+D07                                                                             
+
+SQL> spool off;

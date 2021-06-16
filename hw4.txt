@@ -1,0 +1,27 @@
+SQL> select * from Supplier;
+
+SID SNAME           LOCATION                                                    
+--- --------------- ---------------                                             
+S01 Acme            California                                                  
+S02 Apex            Maryland                                                    
+S03 Best            Georgia                                                     
+S04 Universal       Virginia                                                    
+S05 Genuine         Florida                                                     
+S06 Reliable        Minnesota                                                   
+S07 Quick           Colorado                                                    
+S08 Amazon          Texas                                                       
+S09 Metro           Maryland                                                    
+S10 Superior        Colorado                                                    
+S11 Perfection      California                                                  
+
+SID SNAME           LOCATION                                                    
+--- --------------- ---------------                                             
+S12 Solutions       Florida                                                     
+S13 Rapid           Oregon                                                      
+S14 Always          Texas                                                       
+S15 Swift           Virginia                                                    
+S16 Whirlwind       Ohio                                                        
+
+16 rows selected.
+
+SQL> exit
